@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<editmodel:SequenceDiagramEditModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:editmodel="editmodel.xmi" xmlns:options="options.xmi" name="1_03_Class_ObjectsSequenceDiagram" id="{UMLID=_yNKhgJ74EeCJdI7ILS7zAg}" metadata="uml2-1.0" tag="10" key="323030373036323920315F30335F436C6173735F4F626A65637473">
+  <children xsi:type="editmodel:FrameEditModel" id="{UMLID=_yOKnEJ74EeCJdI7ILS7zAg}" type="Interaction"/>
+  <diagramOptions xsi:type="options:SequenceDiagramOptions" level="0" autoName="false"/>
+  <boardSetting snapToGeometry="true" gridEnabled="true" gridSpacing="14,14" gridOrigin="0,0" rulerUnit="cm">
+    <leftRuler/>
+    <topRuler/>
+  </boardSetting>
+</editmodel:SequenceDiagramEditModel>

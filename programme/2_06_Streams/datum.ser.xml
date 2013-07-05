@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0-ea" class="java.beans.XMLDecoder">
+ <string>Today</string>
+ <object class="java.util.Date">
+  <long>1272904776250</long>
+ </object>
+</java>

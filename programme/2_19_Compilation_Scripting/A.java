@@ -1,0 +1,1 @@
+class A { static { System.out.println("Java Compiler API"); } }
